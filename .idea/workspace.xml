@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a4e3c7f-b8cd-4bb3-b781-eea3ae49e821" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstGitHubProj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestDemo/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestDemo/other.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestDemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestDemo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestDemo/other.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestDemo/other.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659749595527</updated>
       <workItem from="1659749597768" duration="848000" />
-      <workItem from="1659765578736" duration="400000" />
+      <workItem from="1659765578736" duration="892000" />
     </task>
     <servers />
   </component>
